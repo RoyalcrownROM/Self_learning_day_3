@@ -1,0 +1,32 @@
+{
+  "name": "day_0",
+  "version": "1.0.0",
+  "description": "Javascript test and function for Day 0 challenge",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoyalCrownROM/self-learning-clinic-day-0.git"
+  },
+  "keywords": [
+    "Andela",
+    "Day",
+    "0",
+    "Boot",
+    "camp"
+  ],
+  "author": "Adeniyi Aremu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoyalCrownROM/self-learning-clinic-day-0/issues"
+  },
+  "homepage": "https://github.com/RoyalCrownROM/self-learning-clinic-day-0#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
